@@ -84,7 +84,7 @@ void loop()
 }
 ```
 
-### Distance vs measurement table 
+## Output:
 
 ![img](Ultrasonic%20sensor.png)
 
